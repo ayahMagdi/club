@@ -1,0 +1,95 @@
+
+.navbar-content,
+.footer-content
+{
+	height: 80px;
+	background: #acacac2e;
+	margin-bottom: 50px;
+	border-bottom: 1px solid #dc354533;
+	/*box-shadow: 10px 10px 10px #dc354533*/
+	color: #5d4d4d
+}
+
+h1
+{
+	font-size: 30px;
+    padding-top: 17px;
+}
+
+.card
+{
+	width: 100%!important;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	overflow: hidden;
+}
+.card img
+{
+	height: 194.66px;
+	/*border-radius: 40px*/
+}
+.card-title
+{
+    position: absolute;
+    top: 195px;
+    right: 0;
+    color: #FFF;
+    padding: 8px 15px;
+    font-weight: bold;
+    background: rgba(220, 53, 69,.6);
+    width: 100%;
+}
+.card-text
+{
+	font-size: 15px;
+    line-height: 1.8;
+    color: #3c3535;
+}
+ul
+{
+	margin-bottom: 0
+}
+.about-school li 
+{
+	border: 1px solid #EEE;
+	height: 50px;
+	line-height: 50px;
+	padding-right: 10px
+}
+.about-school li p
+{
+	color: #dc3545;
+	font-size: 14px;
+	font-weight: bold;
+}
+.about-school li p span
+{
+	font-weight: normal;
+	color: #3c3535;
+	font-size: 14px
+}
+
+hr
+{
+	width: 70%;
+	margin-bottom: 50px;
+	margin-top: 30px;
+	border: 1px solid #EEE
+}
+/*
+form input
+{
+	margin-bottom: 10px
+}*/
+
+.footer-content
+{
+	margin-bottom: 0;
+	margin-top: 30px
+}
+.footer-content p
+{
+	padding-top: 20px;
+	font-size: 22px;
+	margin: 0
+}
